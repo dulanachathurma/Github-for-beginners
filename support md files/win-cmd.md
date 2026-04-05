@@ -14,3 +14,8 @@ This method works on any Windows OS computer, including Windows 10, 11, and Wind
 Example image:
 
 ![Open CMD in Folder](../images/win.png)
+
+
+Dulana Chathurma
+Software Engineering Undergraduate at University of Kelaniya
+
