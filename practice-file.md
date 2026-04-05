@@ -54,7 +54,7 @@ This file is designed for you to practice making changes, commits, and pull requ
 <!-- 👇 ADD YOUR CONTENT BELOW THIS LINE 👇 -->
 
 ### My Contribution
-**Added by:** [Your Name]  
+**Added by:** .....
 **Topic:** [Your Topic]  
 **Content:** [Your content here]
 
